@@ -1,5 +1,5 @@
 # UNSW Homepage Colour Theme
-A colour theme inspired by UNSW homepage
+A colour theme inspired by [UNSW homepage](https://www.unsw.edu.au/)
 
 This project is **NOT** related to any UNSW officials
 
