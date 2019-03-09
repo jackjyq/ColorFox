@@ -20,6 +20,10 @@ Browser themes, created by Jack
 
 ![](./Focus_Color/screenshot.png)
 
+### [Edge Notes](https://addons.mozilla.org/en-US/firefox/addon/edge-notes/)
+
+![](./Edge_Notes/screenshot.png)
+
 
 
 
