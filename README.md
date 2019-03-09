@@ -1,30 +1,23 @@
-# UNSW Homepage Colour Theme
-A colour theme inspired by UNSW homepage
+# ColorFox
 
-This project is **NOT** related to any UNSW officials
+Browser themes, created by Jack
 
-## [Firefox Default_Theme](https://addons.mozilla.org/en-US/firefox/addon/unsw-homepage-colour/)
+## Firefox Themes
 
-![](./Firefox_Default_Theme/screenshot.png)
+### [UNSW Yellow](https://addons.mozilla.org/en-US/firefox/addon/unsw-yellow/)
 
-## [Chrome Default_Theme](https://chrome.google.com/webstore/detail/unsw-homepage-colour/ojlaccnnglpcdlmoijfldnoamfaioifc)
+![](./UNSW Yellow/screenshot.png)
 
-![](./Chrome_Default_Theme/screenshot.png)
+### [DuckDuckGo Default](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-default/)
 
-## Colour palette
+![](.\DuckDuckGo Default\screenshot.png)
 
-![](./Chrome_Default_Theme/icon.png)
+## [DuckDuckGo Terminal](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-terminal/)
 
-### primary colour
+![](./DuckDuckGo Terminal/screenshot.png)
 
-maybe Yellow
+## Chrome Themes
 
-- background: FFCC00 RPG(255,204,0)
-- text: 000000 RPG(0,0,0)
+### [UNSW Homepage Colour](https://chrome.google.com/webstore/detail/unsw-homepage-colour/ojlaccnnglpcdlmoijfldnoamfaioifc)
 
-### secondary colour
-
-maybe dark grey
-
-- background: 3B3738 RPG(59,55,56)
-- text: FFFFFF PRG(255,255,255)
+![](./UNSW Homepage Colour/screenshot.png)
