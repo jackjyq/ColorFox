@@ -2,22 +2,22 @@
 
 Browser themes, created by Jack
 
-## Firefox Themes
+## [Firefox Themes](https://addons.mozilla.org/en-US/firefox/user/13822940/)
 
 ### [UNSW Yellow](https://addons.mozilla.org/en-US/firefox/addon/unsw-yellow/)
 
-![](./UNSW Yellow/screenshot.png)
+![](./UNSW_Yellow/screenshot.png)
 
 ### [DuckDuckGo Default](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-default/)
 
-![](.\DuckDuckGo Default\screenshot.png)
+![](.\DuckDuckGo_Default\screenshot.png)
 
 ## [DuckDuckGo Terminal](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-terminal/)
 
-![](./DuckDuckGo Terminal/screenshot.png)
+![](./DuckDuckGo_Terminal/screenshot.png)
 
 ## Chrome Themes
 
 ### [UNSW Homepage Colour](https://chrome.google.com/webstore/detail/unsw-homepage-colour/ojlaccnnglpcdlmoijfldnoamfaioifc)
 
-![](./UNSW Homepage Colour/screenshot.png)
+![](./UNSW_Homepage_Colour/screenshot.png)
