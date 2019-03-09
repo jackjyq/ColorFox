@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "DuckDuckGo",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-011-d53e0d0d1538ed554a90e056a2f04eca.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(247, 247, 247)",
+      "toolbar_text": "rgb(76, 76, 76)",
+      "accentcolor": "rgb(222, 88, 51)",
+      "textcolor": "rgb(247, 247, 247)",
+      "toolbar_field": "rgb(255, 255, 255)",
+      "toolbar_field_text": "rgb(34, 34, 34)",
+      "tab_line": "rgb(101, 188, 70)",
+      "popup": "rgb(247, 247, 247)",
+      "popup_text": "rgb(34, 34, 34)",
+      "tab_loading": "rgb(101, 188, 70)"
+    }
+  }
+}
