@@ -10,7 +10,7 @@ Browser themes, created by Jack
 
 ### [DuckDuckGo Default](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-default/)
 
-![](.\DuckDuckGo_Default\screenshot.png)
+![](./DuckDuckGo_Default/screenshot.png)
 
 ## [DuckDuckGo Terminal](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-terminal/)
 
