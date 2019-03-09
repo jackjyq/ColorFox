@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Focus Color",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(164, 7, 78)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "accentcolor": "rgb(122, 10, 68)",
+      "textcolor": "rgb(187, 188, 197)",
+      "toolbar_field": "rgb(122, 10, 68)",
+      "toolbar_field_text": "rgb(187, 188, 197)",
+      "tab_line": "rgb(0, 0, 0)",
+      "popup": "rgb(32, 35, 64)",
+      "popup_text": "rgb(255, 255, 255)",
+      "tab_loading": "rgb(0, 0, 0)"
+    }
+  }
+}

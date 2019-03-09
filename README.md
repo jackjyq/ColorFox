@@ -16,12 +16,23 @@ Browser themes, created by Jack
 
 ![](./DuckDuckGo_Terminal/screenshot.png)
 
+### [Focus Color](https://addons.mozilla.org/en-US/firefox/addon/focus-color/)
+
+![](./Focus_Color/screenshot.png)
+
+
+
+
+
+
+
 ## Chrome Themes
 
 ### [UNSW Homepage Colour](https://chrome.google.com/webstore/detail/unsw-homepage-colour/ojlaccnnglpcdlmoijfldnoamfaioifc)
 
 ![](./UNSW_Homepage_Colour/screenshot.png)
 
-## [DuckDuckGo Terminal](https://chrome.google.com/webstore/detail/pghedgpmkfnlfieeahanikjjfhkofkpe/publish-accepted?hl=en&gl=AU)
+### [DuckDuckGo Terminal](https://chrome.google.com/webstore/detail/pghedgpmkfnlfieeahanikjjfhkofkpe/publish-accepted?hl=en&gl=AU)
 
 ![](./DuckDuckGo_Terminal_Chrome/screenshot.png)
+
