@@ -2,7 +2,7 @@
 
 Browser themes, created by Jack
 
-## [Firefox Themes](https://addons.mozilla.org/en-US/firefox/user/13822940/)
+# [Firefox Themes](https://addons.mozilla.org/en-US/firefox/user/13822940/)
 
 ### [DuckDuckGo Terminal](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-terminal/)
 
