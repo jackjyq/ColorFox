@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Windows 98 SE",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(192, 192, 192)",
+      "toolbar_text": "rgb(0, 0, 0)",
+      "accentcolor": "rgb(192, 192, 192)",
+      "textcolor": "rgb(0, 0, 0)",
+      "toolbar_field": "rgb(255, 255, 255)",
+      "toolbar_field_text": "rgb(0, 0, 0)",
+      "tab_line": "rgb(255, 255, 255)",
+      "popup": "rgb(192, 192, 192)",
+      "popup_text": "rgb(0, 0, 0)",
+      "tab_loading": "rgb(255, 255, 255)"
+    }
+  }
+}
