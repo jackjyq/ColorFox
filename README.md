@@ -8,6 +8,10 @@ Browser themes, created by Jack
 
 [![](./DuckDuckGo_Terminal/screenshot.png)](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-terminal/)
 
+### [macOS Mojave Light Blue](https://addons.mozilla.org/en-US/firefox/addon/macos-mojave-light-blue/)
+
+[![](./macOS_Mojave_Light_Blue/screenshot.png)](https://addons.mozilla.org/en-US/firefox/addon/macos-mojave-light-blue/)
+
 ### [UNSW Yellow](https://addons.mozilla.org/en-US/firefox/addon/unsw-yellow/)
 
 [![](./UNSW_Yellow/screenshot.png)](https://addons.mozilla.org/en-US/firefox/addon/unsw-yellow/)
