@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Windows 10 TaskBar",
+  "theme": {
+    "colors": {
+      "toolbar": "rgb(242,242,242)",
+      "toolbar_text": "black",
+      "frame": "rgb(16,16,16)",
+      "tab_selected": "RGB(39,39,39)",
+      "tab_background_text": "rgb(191,191,191)",
+      "tab_text": "white",
+      "toolbar_field": "white",
+      "toolbar_field_text": "black",
+      "tab_line": "rgb(118,185,237)",
+      "popup": "rgb(242,242,242)",
+      "popup_text": "black",
+      "button_background_hover": "rgb(145,201,247)",
+      "button_background_active": "rgb(145,201,247)",
+      "icons_attention": "orange",
+      "sidebar_border": "black",
+      "toolbar_field_border_focus": "black"
+    }
+  }
+}
