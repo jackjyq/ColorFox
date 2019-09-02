@@ -217,28 +217,28 @@ function checkTime() {
   let hours = date.getHours();
   switch(hours % 8) {
     case 0:
-      setTheme('blue');
+      setTheme('yellow');
       break;
     case 1:
-      setTheme('purple');
+      setTheme('blue');
       break;
     case 2:
       setTheme('pink');
       break;
     case 3:
-      setTheme('red');
+      setTheme('green');
       break;
     case 4:
       setTheme('orange');
       break;
     case 5:
-      setTheme('yellow');
+      setTheme('graphite');
       break;
     case 6:
-      setTheme('green');
+      setTheme('red');
       break;
     case 7:
-      setTheme('graphite');
+      setTheme('purple');
       break;
     default:
       break;
