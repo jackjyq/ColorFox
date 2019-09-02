@@ -1,6 +1,6 @@
 let theme = {
     "images": {
-      "theme_frame": "./logos/default.png"
+      "theme_frame": ""
     },
     "colors": {
       "bookmark_text": "rgb(71, 71, 71)",
@@ -23,6 +23,15 @@ function setTheme(url) {
   if (typeof(url) !== 'string') {
     return;
   }
+  // special url
+  if (url === "about:newtab"
+      || url === "about:home"
+      || url === "about:preferences"
+      || url === "about:addones") {
+    loadDefaultTheme();
+    return;
+  }
+
   // check host name
   const hostname = new URL(url).hostname;
   if (hostname.length < 1) {
@@ -42,16 +51,21 @@ function setTheme(url) {
   }
   // image does ot exist
   image.onerror = function() {
-    logo = './logos/default.png';
-    // check logo
-    if (theme.images.theme_frame === logo) {
-      return;
-    }
-    // update theme
-    theme.images.theme_frame = logo;
-    browser.theme.update(theme);
+    loadDefaultTheme();
   }
   image.src = logo;
+}
+
+
+function loadDefaultTheme(){
+  logo = './logos/default.png';
+  // check logo
+  if (theme.images.theme_frame === logo) {
+    return;
+  }
+  // update theme
+  theme.images.theme_frame = logo;
+  browser.theme.update(theme);
 }
 
 
@@ -73,7 +87,7 @@ function handleActiveChange() {
 }
 
 
-browser.theme.update(theme);
+loadDefaultTheme();
 browser.tabs.onUpdated.addListener(handleUpdated);
 browser.tabs.onActivated.addListener(handleActiveChange);
 browser.tabs.onRemoved.addListener(handleActiveChange);
