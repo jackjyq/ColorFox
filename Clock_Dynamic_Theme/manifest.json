@@ -9,8 +9,8 @@
     "theme"
   ],
   "icons": {
-    "48": "icon.png",
-    "96": "icon@2x.png"
+    "48": "icon@48.png",
+    "96": "icon@96.png"
   },
   "background": {
     "scripts": ["background.js"]
