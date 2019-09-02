@@ -1,0 +1,8 @@
+blue rgb(47,124,246)
+purple rgb(138,69,146)
+pink rgb(229,93,156)
+red rgb(207,71,69)
+orange rgb(232,135,58)
+yellow rgb(242,186,75)
+green rgb(120,183,86)
+graphite rgb(152,152,152)

@@ -3,30 +3,28 @@
   "version": "1.2",
   "name": "macOS Mojave Light Blue",
   "theme": {
-    "images": {
-      "additional_backgrounds": []
-    },
-    "properties": {
-      "additional_backgrounds_alignment": [
-        "top"
-      ],
-      "additional_backgrounds_tiling": [
-        "repeat"
-      ]
-    },
     "colors": {
       "toolbar": "rgb(250, 250, 250)",
-      "toolbar_text": "rgb(71, 71, 71)",
+      "bookmark_text": "rgb(71, 71, 71)",
       "frame": "rgb(210, 210, 210)",
-      "tab_background_text": "rgb(0, 0, 0)",
+      "frame_inactive": "rgb(244, 244, 244)",
+      "tab_background_text": "black",
       "toolbar_field": "rgb(250, 250, 250)",
-      "toolbar_field_text": "rgb(0, 0, 0)",
-      "tab_line": "rgb(0, 122, 255)",
+      "toolbar_field_text": "black",
+      "toolbar_field_highlight_text": "black",
+      "toolbar_field_border": "rgb(167,167,167)",
       "popup": "rgb(250, 250, 250)",
       "popup_text": "rgb(71, 71, 71)",
-      "tab_loading": "rgb(0, 122, 255)",
-      "frame_inactive": "rgb(244, 244, 244)",
-      "icons_attention": "rgb(3, 61, 208)"
+      "popup_highlight_text": "white",
+      "sidebar_highlight_text": "white",
+      "tab_line": "rgb(47,124,246)",
+      "tab_loading": "rgb(47,124,246)",
+      "icons_attention": "rgb(47,124,246)",
+      "popup_highlight": "rgb(47,124,246)",
+      "sidebar_highlight": "rgb(47,124,246)",
+      "icons_attension": "rgb(47,124,246)",
+      "toolbar_field_border_focus": "rgb(47,124,246)",
+      "toolbar_field_highlight": "rgba(47,124,246, 0.2)"
     }
   }
 }
