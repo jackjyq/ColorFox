@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "Dynamic Logo Theme",
+  "version": "0.1",
+  "description": "A dynamic theme which shows the logo of current webpage",
+  "homepage_url": "https://colorfox.jackjyq.com/",
+  "permissions": [
+    "theme",
+    "tabs"
+  ],
+  "icons": {
+    "48": "icon@48.png",
+    "96": "icon@96.png"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "applications": {
+    "gecko": {
+      "strict_min_version": "55.0a2"
+    }
+  }
+}
