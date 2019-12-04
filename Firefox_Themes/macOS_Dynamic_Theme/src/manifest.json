@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "macOS Dynamic Theme",
-  "version": "0.4",
+  "version": "0.5",
   "description": "A dynamic theme inspired by macOS colors",
   "homepage_url": "https://colorfox.jackjyq.com/",
   "permissions": [
