@@ -1,21 +1,30 @@
 {
   "manifest_version": 2,
-  "version": "1.2",
-  "name": "DuckDuckGo Terminal",
+  "name": "DuckDuckGo Terminal(Unofficial)",
+  "version": "2.0",
   "theme": {
     "images": {},
     "properties": {},
     "colors": {
       "toolbar": "rgb(34, 34, 34)",
       "toolbar_text": "rgb(188, 188, 188)",
-      "accentcolor": "rgb(34, 34, 34)",
-      "textcolor": "rgb(161, 172, 37)",
+      "frame": "rgb(34, 34, 34)",
+      "tab_background_text": "rgb(161, 172, 37)",
       "toolbar_field": "rgb(27, 27, 27)",
       "toolbar_field_text": "rgb(80, 241, 72)",
+      "toolbar_field_border_focus": "rgb(222, 88, 51)",
       "tab_line": "rgb(222, 88, 51)",
       "popup": "rgb(27, 27, 27)",
       "popup_text": "rgb(201, 201, 201)",
-      "tab_loading": "rgb(222, 88, 51)"
+      "popup_highlight": "white",
+      "popup_highlight_text": "rgb(0, 120, 215)",
+      "popup_border": "rgb(27, 27, 27)",
+      "tab_loading": "rgb(222, 88, 51)",
+      "ntp_background": "rgb(34, 34, 34)",
+      "ntp_text": "rgb(201, 201, 201)",
+      "sidebar": "rgb(27, 27, 27)",
+      "sidebar_text": "rgb(201, 201, 201)",
+      "icons_attention": "rgb(222, 88, 51)"
     }
   }
 }
