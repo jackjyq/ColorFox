@@ -8,19 +8,6 @@ let theme = {
     },
     "properties": {
       "additional_backgrounds_alignment": [ "right top" , "right top" ]
-    },
-    "colors": {
-      "bookmark_text": "rgb(71, 71, 71)",
-      "frame": "rgb(210, 210, 210)",
-      "frame_inactive": "rgb(244, 244, 244)",
-      "tab_line": "rgb(250, 250, 250)",
-      "tab_background_text": "black",
-      "toolbar_field": "rgb(250, 250, 250)",
-      "toolbar_field_text": "black",
-      "toolbar_field_highlight_text": "black",
-      "toolbar_field_border": "rgb(167,167,167)",
-      "popup": "rgb(250, 250, 250)",
-      "popup_text": "rgb(71, 71, 71)"
     }
 };
 
