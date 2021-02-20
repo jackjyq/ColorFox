@@ -3,11 +3,29 @@ let currentThemeMinute = '';
 
 let theme = {
     "images": {
-      "theme_frame": "empty.png",
-      "additional_backgrounds": [ "empty.png", "empty.png"]
+      "additional_backgrounds": [null, null]
     },
-    "properties": {
-      "additional_backgrounds_alignment": [ "right top" , "right top" ]
+    "colors": {
+      "frame": "rgb(40, 40, 40)",
+      "icons_attention": "rgb(222, 88, 51)",
+      "ntp_background": "rgb(34, 34, 34)",
+      "ntp_text": "rgb(201, 201, 201)",
+      "popup": "rgb(27, 27, 27)",
+      "popup_text": "rgb(201, 201, 201)",
+      "popup_highlight": "white",
+      "popup_highlight_text": "rgb(0, 120, 215)",
+      "popup_border": "rgb(27, 27, 27)",
+      "sidebar": "rgb(27, 27, 27)",
+      "sidebar_text": "rgb(201, 201, 201)",
+      "tab_background_separator": "rgb(188, 188, 188)",
+      "tab_background_text": "rgb(161, 172, 37)",
+      "toolbar": "rgb(34, 34, 34, 0)",
+      "toolbar_text": "rgb(188, 188, 188)",
+      "toolbar_field": "rgb(27, 27, 27)",
+      "toolbar_field_border_focus": "rgb(27, 27, 27)",
+      "toolbar_field_text": "rgb(80, 241, 72)",
+      "tab_line": "rgb(222, 88, 51)",
+      "tab_loading": "rgb(222, 88, 51)"
     }
 };
 
